@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "X:\\games\\cps3\\redearth.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/redearth.zip",
       "label": "C - 赤色大地",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "X:\\games\\cps3\\jojon.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/jojon.zip",
       "label": "J - JOJO的奇妙冒险1",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "X:\\games\\cps3\\jojobaner1.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/jojobaner1.zip",
       "label": "J - JOJO的奇妙冒险2 未来遗产",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "X:\\games\\cps3\\sfiiin.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/sfiiin.zip",
       "label": "J - 街头霸王3.1 新纪元",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "X:\\games\\cps3\\sfiii2.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/sfiii2.zip",
       "label": "J - 街头霸王3.2 巨型打击",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,7 +49,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "X:\\games\\cps3\\sfiii3.zip",
+      "path": "/dev_hdd0/game/RETROARCH/USRDIR/games/cps3/sfiii3.zip",
       "label": "J - 街头霸王3.3 未来战斗",
       "core_path": "DETECT",
       "core_name": "DETECT",
