@@ -1,6 +1,6 @@
 {
   "version": "1.5",
-  "default_core_path": "usb:/apps/sfiii3-sd/fbalpha2012_cps3_libretro_wii.dol",
+  "default_core_path": "sd:/apps/sfiii3-sd/fbalpha2012_cps3_libretro_wii.dol",
   "default_core_name": "Arcade (FB Alpha 2012 CPS-3)",
   "label_display_mode": 0,
   "right_thumbnail_mode": 3,
@@ -9,9 +9,9 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "usb:/games/cps3/sfiii3.zip",
+      "path": "sd:/games/cps3/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike - Fight for the Future",
-      "core_path": "usb:/apps/sfiii3-sd/fbalpha2012_cps3_libretro_wii.dol",
+      "core_path": "sd:/apps/sfiii3-sd/fbalpha2012_cps3_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-3)",
       "crc32": "36056B5E|crc",
       "db_name": "Capcom - CP System III.lpl"
