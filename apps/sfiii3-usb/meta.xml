@@ -10,13 +10,13 @@
 - Developer &amp; Publisher: Capcom
 - Genre: Fighting
 - Release Date: 1999-05-12
-- Players: 2
+- Max Players: 2
 
-Wii Channel : usb:/wad/cps3/sfiii3
-Website : https://github.com/R-Sam-1980/cps3</long_description>
+Wii Channel: usb:/wad/cps3
+Website: https://github.com/R-Sam-1980/cps3</long_description>
   <no_ios_reload/>
   <ahb_access/>
-    <arguments>
+  <arguments>
     <arg>usb:/games/cps3</arg>
     <arg>sfiii3.zip</arg>
   </arguments>
