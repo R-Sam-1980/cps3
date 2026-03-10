@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps3/redearth.zip",
+      "path": "sd:/games/fba/cps3/redearth.zip",
       "label": "Red Earth",
       "core_path": "sd:/apps/redearth-sd/fbalpha2012_cps3_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-3)",

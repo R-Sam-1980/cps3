@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps3/jojo.zip",
+      "path": "sd:/games/fba/cps3/jojo.zip",
       "label": "JoJo's Venture",
       "core_path": "sd:/apps/jojo-sd/fbalpha2012_cps3_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-3)",

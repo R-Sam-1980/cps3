@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/games/cps3/sfiii3.zip",
+      "path": "sd:/games/fba/cps3/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike - Fight for the Future",
       "core_path": "sd:/apps/sfiii3-sd/fbalpha2012_cps3_libretro_wii.dol",
       "core_name": "Arcade (FB Alpha 2012 CPS-3)",

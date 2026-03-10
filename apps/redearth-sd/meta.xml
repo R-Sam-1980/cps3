@@ -17,7 +17,7 @@ Website: https://github.com/R-Sam-1980/cps3</long_description>
   <no_ios_reload/>
   <ahb_access/>
   <arguments>
-    <arg>sd:/games/cps3</arg>
+    <arg>sd:/games/fba/cps3</arg>
     <arg>redearth.zip</arg>
   </arguments>
 </app>
