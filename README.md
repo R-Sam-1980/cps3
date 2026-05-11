@@ -1,9 +1,11 @@
-# Windows 版 RetroArch 使用的 CPS3 街机游戏资源
+# Android 版 RetroArch 使用的 CPS3 街机游戏资源
+
+基于 Windows 分支
 
 
 ## Capcom - CP System III.lpl
 
-游戏目录：X:\\arcade\\cps3
+游戏目录：/storage/emulated/0/arcade/cps3
 
 
 ## 列表图标
@@ -20,6 +22,6 @@
 
 ## 遮罩
 
-overlays\cps2 文件夹里的遮罩文件命名规则：
+overlays\cps3 文件夹里的遮罩文件命名规则：
 - 以游戏 ROM 文件命名
 - 一个游戏有多个遮罩的时候，以后缀 -a、-b、-c、-d 加以区分
