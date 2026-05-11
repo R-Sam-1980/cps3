@@ -1,7 +1,5 @@
 # PS3 版 RetroArch 使用的 CPS3 街机游戏资源
 
-基于 Windows 分支
-
 
 ## 列表
 
