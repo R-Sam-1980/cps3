@@ -1,0 +1,28 @@
+# CPS3 街机游戏 App 列表
+
+1G1R1App 是 1 Game 1 ROM 1 App 的缩写，意思是一个游戏只选取一个版本的 ROM 文件，同时还有一个独立的 App 专门负责加载这个游戏的 ROM 文件。
+
+以下是基于 Wii 版 RetroArch 的 fbalpha2012_cps1_libretro_wii.dol 核心制作的，CPS3 街机游戏 App 列表：
+
+## 按 App 名称排序
+
+序号 | App 名称 | App 图标 | 游戏中文名 | ROM 文件
+--- | --- | --- | --- | ---
+1 | JoJo's Venture | ![](./apps/sd-jojo/icon.png) | J - JOJO的奇妙冒险1 | jojo.zip
+2 | JoJo's Venture 2 | ![](./apps/sd-jojoba/icon.png) | J - JOJO的奇妙冒险2 未来遗产 | jojoba.zip
+3 | Red Earth | ![](./apps/sd-redearth/icon.png) | C - 赤色大地 | redearth.zip
+4 | Street Fighter 3.1 | ![](./apps/sd-sfiii/icon.png) | J - 街头霸王3.1 新纪元 | sfiii.zip
+5 | Street Fighter 3.2 | ![](./apps/sd-sfiii2/icon.png) | J - 街头霸王3.2 巨型打击 | sfiii2.zip
+6 | Street Fighter 3.3 | ![](./apps/sd-sfiii3/icon.png) | J - 街头霸王3.3 未来战斗 | sfiii3.zip
+
+
+## 按游戏中文名排序
+
+序号 | 游戏中文名 | App 图标 | App 名称 | ROM 文件
+--- | --- | --- | --- | ---
+1 | C - 赤色大地 | ![](./apps/sd-redearth/icon.png) | Red Earth | redearth.zip
+2 | J - JOJO的奇妙冒险1 | ![](./apps/sd-jojo/icon.png) | JoJo's Venture | jojo.zip
+3 | J - JOJO的奇妙冒险2 未来遗产 | ![](./apps/sd-jojoba/icon.png) | JoJo's Venture 2 | jojoba.zip
+4 | J - 街头霸王3.1 新纪元 | ![](./apps/sd-sfiii/icon.png) | Street Fighter 3.1 | sfiii.zip
+5 | J - 街头霸王3.2 巨型打击 | ![](./apps/sd-sfiii2/icon.png) | Street Fighter 3.2 | sfiii2.zip
+6 | J - 街头霸王3.3 未来战斗 | ![](./apps/sd-sfiii3/icon.png) | Street Fighter 3.3 | sfiii3.zip
