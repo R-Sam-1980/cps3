@@ -8,12 +8,12 @@
 
 序号 | App 名称 | App 图标 | 游戏中文名 | ROM 文件
 --- | --- | --- | --- | ---
-1 | JoJo's Venture | ![](./apps/sd-cps3-jojo/icon.png) | J - JOJO的奇妙冒险1 | jojo.zip
-2 | JoJo's Venture 2 | ![](./apps/sd-cps3-jojoba/icon.png) | J - JOJO的奇妙冒险2 未来遗产 | jojoba.zip
-3 | Red Earth | ![](./apps/sd-cps3-redearth/icon.png) | C - 赤色大地 | redearth.zip
-4 | Street Fighter 3.1 | ![](./apps/sd-cps3-sfiii/icon.png) | J - 街头霸王3.1 新纪元 | sfiii.zip
-5 | Street Fighter 3.2 | ![](./apps/sd-cps3-sfiii2/icon.png) | J - 街头霸王3.2 巨型打击 | sfiii2.zip
-6 | Street Fighter 3.3 | ![](./apps/sd-cps3-sfiii3/icon.png) | J - 街头霸王3.3 未来战斗 | sfiii3.zip
+1 | JoJo's Venture | ![](./apps/sd-cps3-jojo/icon.png) | JOJO的奇妙冒险1 | jojo.zip
+2 | JoJo's Venture 2 | ![](./apps/sd-cps3-jojoba/icon.png) | JOJO的奇妙冒险2 未来遗产 | jojoba.zip
+3 | Red Earth | ![](./apps/sd-cps3-redearth/icon.png) | 赤色大地 | redearth.zip
+4 | Street Fighter 3.1 | ![](./apps/sd-cps3-sfiii/icon.png) | 街头霸王3.1 新纪元 | sfiii.zip
+5 | Street Fighter 3.2 | ![](./apps/sd-cps3-sfiii2/icon.png) | 街头霸王3.2 巨型打击 | sfiii2.zip
+6 | Street Fighter 3.3 | ![](./apps/sd-cps3-sfiii3/icon.png) | 街头霸王3.3 未来战斗 | sfiii3.zip
 
 
 ## 按游戏中文名排序
