@@ -15,12 +15,12 @@
 
 序号 | ROM 文件 | CRC32 | 依赖于 | 游戏名称
 --- | --- | --- | --- | ---
-1 | jojobaner1.zip | DBE72E53 | jojoba.zip | J - JOJO的奇妙冒险2 未来遗产
-2 | jojon.zip | D1FB9FFE | jojo.zip | J - JOJO的奇妙冒险1
-3 | redearth.zip | F357FAC2 | | C - 赤色大地
-4 | sfiii2.zip | EF7FA548 | | J - 街头霸王3.2 巨型打击
-5 | sfiii3.zip | 36056B5E | | J - 街头霸王3.3 未来战斗
-6 | sfiiin.zip | 9C57FA04 | sfiii.zip | J - 街头霸王3.1 新纪元
+1 | jojobaner1.zip | DBE72E53 | jojoba.zip | JOJO的奇妙冒险2 未来遗产
+2 | jojon.zip | D1FB9FFE | jojo.zip | JOJO的奇妙冒险1
+3 | redearth.zip | F357FAC2 | | 赤色大地
+4 | sfiii2.zip | EF7FA548 | | 街头霸王3.2 巨型打击
+5 | sfiii3.zip | 36056B5E | | 街头霸王3.3 未来战斗
+6 | sfiiin.zip | 9C57FA04 | sfiii.zip | 街头霸王3.1 新纪元
 
 **建议优先使用 Arcade (FinalBurn Neo) 核心加载游戏。**
 
