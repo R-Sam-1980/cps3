@@ -16,7 +16,7 @@
 
 - 列表图标：官方默认图标
 
-![Capcom - CP System III](.\assets\xmb\monochrome\png\Capcom%20-%20CP%20System%20III.png)
+![Capcom - CP System III](./assets/xmb/monochrome/png/Capcom%20-%20CP%20System%20III.png)
 
 - 缩略图
     - 文件夹：thumbnails\\Capcom - CP System III
@@ -39,7 +39,7 @@
 
 - 列表图标：<https://db.hfsplay.fr/systems/29543>
 
-![Disc - CP System III](.\assets\xmb\monochrome\png\Disc%20-%20CP%20System%20III.png)
+![Disc - CP System III](./assets/xmb/monochrome/png/Disc%20-%20CP%20System%20III.png)
 
 - 缩略图
     - 文件夹：thumbnails\\Disc - CP System III
@@ -64,7 +64,7 @@
 
 - 列表图标：<https://db.hfsplay.fr/systems/29543>
 
-![Ring - CP System III](.\assets\xmb\monochrome\png\Ring%20-%20CP%20System%20III.png)
+![Ring - CP System III](./assets/xmb/monochrome/png/Ring%20-%20CP%20System%20III.png)
 
 - 缩略图
     - 文件夹：thumbnails\\Ring - CP System III
@@ -89,7 +89,7 @@
 
 - 列表图标：<https://db.hfsplay.fr/systems/29543>
 
-![Stuartc49 - CP System III](.\assets\xmb\monochrome\png\Stuartc49%20-%20CP%20System%20III.png)
+![Stuartc49 - CP System III](./assets/xmb/monochrome/png/Stuartc49%20-%20CP%20System%20III.png)
 
 - 缩略图
     - 文件夹：thumbnails\\Stuartc49 - CP System III
@@ -111,6 +111,7 @@
 
 ## 遮罩
 
-overlays\cps3 文件夹里的遮罩文件命名规则：
-- 以游戏 ROM 文件命名
-- 一个游戏有多个遮罩的时候，以后缀 -a、-b、-c、-d 加以区分
+- 文件夹：overlays\\cps3
+- 遮罩文件命名规则：
+    - 以游戏 ROM 文件命名
+    - 一个游戏有多个遮罩的时候，以后缀 -a、-b、-c、-d 加以区分
