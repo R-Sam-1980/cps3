@@ -54,6 +54,31 @@
     - 图片宽高：384x224
 
 
+## Ring - CP System III.lpl
+
+- 列表图标：<https://db.hfsplay.fr/systems/29543>
+
+![Ring - CP System III](.\assets\xmb\monochrome\png\Ring%20-%20CP%20System%20III.png)
+
+- 缩略图
+    - 文件夹：thumbnails\\Ring - CP System III
+    - 图片文件和 ROM 文件同名
+- 包装封面
+    - 文件夹：Named_Boxarts
+    - 图片宽高：600x600
+    - 来源：<https://db.hfsplay.fr>
+- 内容图标
+    - 文件夹：Named_Logos
+    - 图片宽高：200x200
+    - 来源：<https://db.hfsplay.fr>
+- 截屏
+    - 文件夹：Named_Snaps
+    - 图片宽高：384x224
+- 起始屏幕
+    - 文件夹：Named_Titles
+    - 图片宽高：384x224
+
+
 ## Stuartc49 - CP System III.lpl
 
 - 列表图标：<https://db.hfsplay.fr/systems/29543>
