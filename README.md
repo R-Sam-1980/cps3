@@ -3,7 +3,7 @@
 
 ## 分支：ra-playlist-android
 
-- 所有的图片文件从 ra-playlist-windows 合并过来
+- 所有的图片文件从 ra-playlist-windows 分支合并过来
 - 所有的游戏列表文件（.lpl 格式）使用 python 脚本生成
 
 
