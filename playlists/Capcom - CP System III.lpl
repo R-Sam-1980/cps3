@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "/storage/emulated/0/arcade/cps3/redearth.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/redearth.zip",
       "label": "C - 赤色大地",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,31 +17,31 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps3/jojon.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/jojo.zip",
       "label": "J - JOJO的奇妙冒险1",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "D1FB9FFE|crc",
+      "crc32": "7B74BE6D|crc",
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps3/jojobaner1.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/jojoba.zip",
       "label": "J - JOJO的奇妙冒险2 未来遗产",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "DBE72E53|crc",
+      "crc32": "9A06A533|crc",
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps3/sfiiin.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/sfiii.zip",
       "label": "J - 街头霸王3.1 新纪元",
       "core_path": "DETECT",
       "core_name": "DETECT",
-      "crc32": "9C57FA04|crc",
+      "crc32": "809A9658|crc",
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps3/sfiii2.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/sfiii2.zip",
       "label": "J - 街头霸王3.2 巨型打击",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,11 +49,19 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "/storage/emulated/0/arcade/cps3/sfiii3.zip",
+      "path": "/storage/emulated/0/roms/fbn/cps3/sfiii3.zip",
       "label": "J - 街头霸王3.3 未来战斗",
       "core_path": "DETECT",
       "core_name": "DETECT",
       "crc32": "36056B5E|crc",
+      "db_name": "Capcom - CP System III.lpl"
+    },
+    {
+      "path": "/storage/emulated/0/roms/fbn/cps3/sfiii3ws.zip",
+      "label": "J - 街头霸王3.3 未来战斗(宽屏版)",
+      "core_path": "DETECT",
+      "core_name": "DETECT",
+      "crc32": "CF8E6FA9|crc",
       "db_name": "Capcom - CP System III.lpl"
     }
   ]
