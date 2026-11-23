@@ -1,25 +1,60 @@
-# Windows 版 RetroArch 使用的 CPS3 街机游戏资源
+# Windows 版 RetroArch 使用的 CPS3 街机游戏列表资源
 
 
-## 列表
+## ROM 文件
 
-- 列表文件：Capcom - CP System III.lpl
-- ROM 文件所在目录：X:\\arcade\\cps3
-- 列表图标：
+游戏列表文件（.lpl 格式）里配置的 ROM 文件所在目录：X:\\roms\\fbn\\cps3
+
+
+## Capcom - CP System III.lpl
+
+- 列表图标：官方默认图标
 
 ![Capcom - CP System III](.\assets\xmb\monochrome\png\Capcom%20-%20CP%20System%20III.png)
 
+- 缩略图
+    - 文件夹：thumbnails\\Capcom - CP System III
+    - 图片文件和 ROM 文件同名
+- 包装封面
+    - 文件夹：Named_Boxarts
+    - 图片宽高：512x716
+- 内容图标
+    - 文件夹：Named_Logos
+    - 图片宽高：400x200
+- 截屏
+    - 文件夹：Named_Snaps
+    - 图片宽高：384x224
+- 起始屏幕
+    - 文件夹：Named_Titles
+    - 图片宽高：384x224
 
-## 缩略图
 
-- 缩略图文件名和 ROM 文件名相同
-- Named_Boxarts 文件夹里的图片统一尺寸为：600x745，图片来自：https://emumovies.com/files/file/5512-capcom-arcade-25d-custom-box-fronts
-- Named_Logos 文件夹里的图片统一尺寸为：400x200
-- Named_Snaps 和 Named_Titles 文件夹里的图片统一尺寸为：384x224 或 224x384
+## Stuartc49 - CP System III.lpl
+
+- 列表图标：<https://db.hfsplay.fr/systems/29543>
+
+![Stuartc49 - CP System III](.\assets\xmb\monochrome\png\Stuartc49%20-%20CP%20System%20III.png)
+
+- 缩略图
+    - 文件夹：thumbnails\\Stuartc49 - CP System III
+    - 图片文件和 ROM 文件同名
+- 包装封面
+    - 文件夹：Named_Boxarts
+    - 图片宽高：600x745
+    - 来源：<https://emumovies.com/files/file/5512-capcom-arcade-25d-custom-box-fronts>
+- 内容图标
+    - 文件夹：Named_Logos
+    - 图片宽高：400x200
+- 截屏
+    - 文件夹：Named_Snaps
+    - 图片宽高：384x224
+- 起始屏幕
+    - 文件夹：Named_Titles
+    - 图片宽高：384x224
 
 
 ## 遮罩
 
-overlays\cps2 文件夹里的遮罩文件命名规则：
+overlays\cps3 文件夹里的遮罩文件命名规则：
 - 以游戏 ROM 文件命名
 - 一个游戏有多个遮罩的时候，以后缀 -a、-b、-c、-d 加以区分
