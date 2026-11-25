@@ -15,7 +15,7 @@
 Website: https://github.com/R-Sam-1980/cps3</long_description>
   <ahb_access/>
   <arguments>
-    <arg>sd:/arcade/fba/cps3</arg>
+    <arg>sd:/roms/fba/cps3</arg>
     <arg>redearth.zip</arg>
   </arguments>
 </app>
