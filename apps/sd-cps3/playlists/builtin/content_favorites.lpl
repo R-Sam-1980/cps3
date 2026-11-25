@@ -9,7 +9,7 @@
   "sort_mode": 1,
   "items": [
     {
-      "path": "sd:/arcade/fba/cps3/jojoba.zip",
+      "path": "sd:/roms/fba/cps3/jojoba.zip",
       "label": "JoJo's Bizarre Adventure - Heritage for the Future",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -17,7 +17,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "sd:/arcade/fba/cps3/jojo.zip",
+      "path": "sd:/roms/fba/cps3/jojo.zip",
       "label": "JoJo's Venture",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -25,7 +25,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "sd:/arcade/fba/cps3/redearth.zip",
+      "path": "sd:/roms/fba/cps3/redearth.zip",
       "label": "Red Earth",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -33,7 +33,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "sd:/arcade/fba/cps3/sfiii.zip",
+      "path": "sd:/roms/fba/cps3/sfiii.zip",
       "label": "Street Fighter III - New Generation",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -41,7 +41,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "sd:/arcade/fba/cps3/sfiii2.zip",
+      "path": "sd:/roms/fba/cps3/sfiii2.zip",
       "label": "Street Fighter III 2nd Impact - Giant Attack",
       "core_path": "DETECT",
       "core_name": "DETECT",
@@ -49,7 +49,7 @@
       "db_name": "Capcom - CP System III.lpl"
     },
     {
-      "path": "sd:/arcade/fba/cps3/sfiii3.zip",
+      "path": "sd:/roms/fba/cps3/sfiii3.zip",
       "label": "Street Fighter III 3rd Strike - Fight for the Future",
       "core_path": "DETECT",
       "core_name": "DETECT",
