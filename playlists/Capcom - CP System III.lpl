@@ -55,14 +55,6 @@
       "core_name": "DETECT",
       "crc32": "36056B5E|crc",
       "db_name": "Capcom - CP System III.lpl"
-    },
-    {
-      "path": "/dev_hdd0/game/RETROARCH/USRDIR/roms/fbn/cps3/sfiii3ws.zip",
-      "label": "J - 街头霸王3.3 未来战斗(宽屏版)",
-      "core_path": "DETECT",
-      "core_name": "DETECT",
-      "crc32": "CF8E6FA9|crc",
-      "db_name": "Capcom - CP System III.lpl"
     }
   ]
 }
