@@ -1,15 +1,15 @@
-# Windows 版 RetroArch 使用的 CPS3 街机游戏列表资源
+# Apple TV 版 RetroArch 使用的 CPS3 街机游戏列表资源
 
 
-## 分支：ra-playlist-windows
+## 分支：ra-playlist-apple-tv
 
-- 所有的图片文件使用 python 脚本从 duxiuxing/cps3-db 分支拷贝过来
+- 所有的图片文件从 ra-playlist-windows 分支合并过来
 - 所有的游戏列表文件（.lpl 格式）使用 python 脚本生成
 
 
 ## ROM 文件
 
-游戏列表文件里配置的 ROM 文件所在目录：X:\\roms\\fbn\\cps3
+游戏列表文件里配置的 ROM 文件所在目录：~/Library/Caches/RetroArch/roms/fbn/cps3
 
 
 ## Capcom - CP System III.lpl
