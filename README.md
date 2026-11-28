@@ -1,4 +1,4 @@
-# Apple TV 版 RetroArch 使用的 CPS3 街机游戏列表资源
+# Apple TV 端 RetroArch 使用的 CPS3 街机游戏列表资源
 
 
 ## 分支：ra-playlist-apple-tv
@@ -19,7 +19,7 @@
 ![Capcom - CP System III](./assets/xmb/monochrome/png/Capcom%20-%20CP%20System%20III.png)
 
 - 缩略图
-    - 文件夹：thumbnails\\Capcom - CP System III
+    - 目录：thumbnails\\Capcom - CP System III
     - 图片文件和 ROM 文件同名
 - 包装封面
     - 文件夹：Named_Boxarts
@@ -42,7 +42,7 @@
 ![Disc - CP System III](./assets/xmb/monochrome/png/Disc%20-%20CP%20System%20III.png)
 
 - 缩略图
-    - 文件夹：thumbnails\\Disc - CP System III
+    - 目录：thumbnails\\Disc - CP System III
     - 图片文件和 ROM 文件同名
 - 包装封面
     - 文件夹：Named_Boxarts
@@ -67,7 +67,7 @@
 ![Ring - CP System III](./assets/xmb/monochrome/png/Ring%20-%20CP%20System%20III.png)
 
 - 缩略图
-    - 文件夹：thumbnails\\Ring - CP System III
+    - 目录：thumbnails\\Ring - CP System III
     - 图片文件和 ROM 文件同名
 - 包装封面
     - 文件夹：Named_Boxarts
@@ -92,7 +92,7 @@
 ![Stuartc49 - CP System III](./assets/xmb/monochrome/png/Stuartc49%20-%20CP%20System%20III.png)
 
 - 缩略图
-    - 文件夹：thumbnails\\Stuartc49 - CP System III
+    - 目录：thumbnails\\Stuartc49 - CP System III
     - 图片文件和 ROM 文件同名
 - 包装封面
     - 文件夹：Named_Boxarts
@@ -111,7 +111,7 @@
 
 ## 遮罩
 
-- 文件夹：overlays\\cps3
+- 目录：overlays\\cps3
 - 遮罩文件命名规则：
     - 以游戏 ROM 文件命名
     - 一个游戏有多个遮罩的时候，以后缀 -a、-b、-c、-d 加以区分
